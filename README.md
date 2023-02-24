@@ -14,6 +14,8 @@ git@github.com:egon-r/AutoAssign.git
 ## Usage
 1. Decorate your class with `[AutoAssignable]`
     ```
+    using ERAutoAssign;
+
     [AutoAssignable]
     public class MainMenu: AnimatedMenu
     {
