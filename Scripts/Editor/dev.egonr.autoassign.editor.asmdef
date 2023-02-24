@@ -1,0 +1,4 @@
+{
+	"name": "dev.egonr.autoassign.editor",
+	"references":[ "dev.egonr.autoassign.runtime" ]
+}
