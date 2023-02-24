@@ -6,7 +6,10 @@ This Package provides a simple "Auto Assign" Button that compares the type and n
 No more time wasted dragging and dropping, reassigning or accidentally messing up the hierarchy.
 
 ## Install
-Open the Package Manager and use `Add package from git URL...` to add the package to your project.
+```
+Window -> Package Manager -> + -> Add package from git URL...
+git@github.com:egon-r/AutoAssign.git
+```
 
 ## Usage
 1. Decorate your class with `[AutoAssignable]`
