@@ -56,4 +56,3 @@ Attribution — You must give appropriate credit, provide a link to the license,
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 ``` 
-[here (PayPal)](https://www.paypal.com/donate/?hosted_button_id=8NPR5ABGRD89S). It will be much appreciated and motivate me to continue releasing software that is free, open source and uses permissive licenses.
